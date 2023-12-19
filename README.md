@@ -1,7 +1,7 @@
 # Simple sentiment analysis model
 
 Just a simple sentiment analysis model to introduce myself into the world of NLP.
-I have to reduce the dataset to 150 000 data points, because my computer can't handle that many data points. 
+I have to reduce the dataset to 150000 data points, because my computer can't handle that many data points. 
 (The original dataset has 1.6 million)
 
 ### Acknowledgements
